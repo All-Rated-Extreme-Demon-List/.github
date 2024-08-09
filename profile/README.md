@@ -3,7 +3,7 @@ The All Rated Extreme Demons List (AREDL for short) is a Geometry Dash community
 You can find more information about us on [our website](https://aredl.net) or on our [discord server](https://discord.gg/aredl)   
 ## AREDL Github Org
 This Github organization holds the code for the different versions of both the AREDL website (frotend & backend) and the AREDL Manager discord bot. It has the following repositories:
--  **[AREDL Main](https://github.com/All-Rated-Extreme-Demon-List/AREDL)**: Old TSL-Layout website (main branch) as well as currently deployed V2 Website (aredl-revamp branch)
+-  **[AREDL Main](https://github.com/All-Rated-Extreme-Demon-List/AREDL)**: Old TSL-Layout website (main branch) as well as currently deployed V2 Website (aredl-revamp branch). Both use VueJS.
 -  **[AREDL-ManagerV2](https://github.com/All-Rated-Extreme-Demon-List/AREDL-ManagerV2)**: AREDL Discord bot made to let people submit their records on discord, and automatically add those on a TSL layout github repo if they are accepted
 -  **[AREDL-Old-Backend](https://github.com/All-Rated-Extreme-Demon-List/AREDL-Old-Backend) (Private)**: Currently deployed backend API used by the current website and various geode mods. Available [here](https://api.aredl.net/api), documentation [here](https://api.aredl.net/docs/index.html). Written in Go using the [pocketbase](https://pocketbase.io) framework.
 -  **[aredl-backend-v2](https://github.com/All-Rated-Extreme-Demon-List/aredl-backend-v2) (Private)**: WIP Rewrite of the current backend, with PostgreSQL & Rust
