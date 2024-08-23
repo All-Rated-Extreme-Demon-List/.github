@@ -11,9 +11,10 @@ This Github organization holds the code for the different versions of both the A
 -  **[AREDL-Staff-Portal](https://github.com/All-Rated-Extreme-Demon-List/AREDL-Staff-Portal) (Private)**: WIP Frontend to interact with the new backend for staff tasks
 
 ## Credits
-- [Simolater](https://github.com/Simolater): Backend V1, Backend V2, Frontend V2
+- [Simolater](https://github.com/Simolater): Backend V1, Backend V2, Frontend V2, Deployments
 - [Minebox260](https://github.com/Minebox260): AREDL Manager V2, Frontend V3
 - [Oculations](https://github.com/ThatGuyNick05): Frontend V3
+- [WinDoge](https://github.com/WinDogePlays): AREDL Manager V2
 - [Zoink Doink](https://github.com/zoinkdoink): Staff Portal
 - [KrisGra](https://github.com/krisgrant): Frontend V1
 - [TheShittyList](https://github.com/TheShittyList): original TSL template/layout used in Frontend V1 & Frontend V2
