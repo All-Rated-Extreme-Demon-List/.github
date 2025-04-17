@@ -21,4 +21,5 @@ This Github organization holds the code for the different versions of both the A
 - [WinDoge](https://github.com/WinDogePlays): AREDL Manager V2
 - [Zoink Doink](https://github.com/zoinkdoink): Staff Portal
 - [KrisGra](https://github.com/krisgrant): Frontend V1
+- [sphericle](https://github.com/sphericle): Backend V2
 - [TheShittyList](https://github.com/TheShittyList): original TSL template/layout used in Frontend V1 & Frontend V2
