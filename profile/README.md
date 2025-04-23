@@ -17,7 +17,7 @@ This Github organization holds the code for the different versions of both the A
 ## Credits
 - [Simolater](https://github.com/Simolater): Backend V1, Backend V2, Frontend V2, Deployments
 - [Minebox260](https://github.com/Minebox260): AREDL Manager V2, Frontend V3, Staff Portal, Backend V2
-- [Oculations](https://github.com/ThatGuyNick05): Frontend V3, Staff Portal
+- [Oculations](https://github.com/ThatGuyNick05): Frontend V3, Staff Portal, Backend V2
 - [WinDoge](https://github.com/WinDogePlays): AREDL Manager V2
 - [Zoink Doink](https://github.com/zoinkdoink): Staff Portal
 - [KrisGra](https://github.com/krisgrant): Frontend V1
